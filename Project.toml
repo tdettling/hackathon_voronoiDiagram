@@ -1,0 +1,8 @@
+name = "DelaunayDiagram"
+uuid = "6044e209-86b5-4014-b2a3-29463800b80f"
+authors = ["Elise Dettling <tdettling@tds.net>"]
+version = "0.1.0"
+
+[deps]
+GraphRecipes = "bd48cda9-67a9-57be-86fa-5b3c104eda73"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
